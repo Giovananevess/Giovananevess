@@ -21,3 +21,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giovananevess&show_icons=true&locale=en" alt="giovananevess" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giovananevess&" alt="giovananevess" /></p>
+
+### My range of skills:
+
+<div style="display: inline_block"><br>
+  <img heigth="40" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" >
+  <img height="40" width="68" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="40" width="68" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img height="40" width="68" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="40" width="68" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="40" width="68" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
+  <img heigth="40" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
+  
+  ##
+
+
