@@ -1,15 +1,3 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║                  GIOVANA NEVES • PROFILE README             ║
-║              Creative Developer • Premium Edition           ║
-╚══════════════════════════════════════════════════════════════╝
-
-Antes de publicar:
-1. Substitua SEU_EMAIL e SEU_INSTAGRAM.
-2. Atualize os links dos projetos.
-3. Remova tecnologias que não representam seu perfil.
--->
-
 <div align="center">
 
 <img
@@ -18,7 +6,7 @@ Antes de publicar:
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=FF67B3&center=true&vCenter=true&width=760&lines=Transformando+ideias+em+experi%C3%AAncias+digitais.;Unindo+c%C3%B3digo%2C+design+e+personalidade.;Criando+solu%C3%A7%C3%B5es+que+as+pessoas+gostem+de+usar."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=FF67B3&center=true&vCenter=true&width=760&lines=Transformando+ideias+em+experi%C3%AAncias+digitais.;Unindo+c%C3%B3digo%2C+design+e+personalidade.;Criando+solu%C3%A7%C3%B5es+que+as+pessoas+queiram+usar."
   alt="Typing animation"
 />
 
@@ -42,186 +30,97 @@ Antes de publicar:
 
 ---
 
-## ✦ Minha essência
+## ✦ Sobre mim
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
+Sou **Giovana Neves**, desenvolvedora Full Stack que transforma ideias em produtos digitais com equilíbrio entre **design**, **experiência do usuário** e **tecnologia robusta**.
 
-Sou uma desenvolvedora que gosta de construir produtos digitais com **clareza, intenção e personalidade**.
+- Crio interfaces limpas e responsivas.
+- Estruturo back-ends em Java e Spring com foco em manutenção.
+- Busco soluções que funcionem de verdade para pessoas reais.
+- Tenho atenção ao detalhe, à clareza e à consistência.
 
-Para mim, tecnologia não é apenas escrever código: é entender pessoas, organizar ideias e transformar necessidades em experiências que funcionem de verdade.
-
-Gosto especialmente do ponto em que **desenvolvimento, design e experiência do usuário** se encontram.
-
-<br>
-
-```yaml
-nome: Giovana Neves
-perfil: Desenvolvedora Full Stack
-estilo: criativa, curiosa e detalhista
-interesses:
-  - Java e Spring
-  - Interfaces modernas
-  - Experiência do usuário
-  - Aplicações Full Stack
-  - Tecnologia com propósito
-status: aprendendo, criando e evoluindo
-combustível: café, música e boas ideias
-```
-
-</td>
-    <td width="42%" align="center" valign="middle">
-
-<img
-  width="100%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovananevess&layout=donut&hide_border=true&bg_color=00000000&title_color=FF67B3&text_color=C9D1D9&langs_count=6"
-  alt="Linguagens mais utilizadas"
-/>
-
-</td>
-  </tr>
-</table>
+> Meu trabalho é ajudar equipes e clientes a transformar visão em produto funcional.
 
 ---
 
-## ✦ Meu laboratório criativo
+## ✦ O que eu trago
 
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🎨 Design</h3>
-      <p>
-        Interfaces bonitas, intuitivas e construídas com atenção aos detalhes.
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>⌨️ Código</h3>
-      <p>
-        Soluções organizadas, funcionais e desenvolvidas com boas práticas.
-      </p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🧠 Experiência</h3>
-      <p>
-        Tecnologia pensada para resolver problemas reais de pessoas reais.
-      </p>
-    </td>
-  </tr>
-</table>
+### 🎨 Design e experiência
+- Interfaces intuitivas e modernas.
+- Navegação fluida em desktop e mobile.
+- Layouts com atenção à identidade visual.
+
+### ⌨️ Desenvolvimento
+- Java, Spring Boot e APIs REST.
+- HTML, CSS e JavaScript prontos para produção.
+- Integração de front-end, back-end e banco de dados.
+
+### 🚀 Entregas
+- Projetos com foco no usuário.
+- Código organizado e escalável.
+- Soluções alinhadas ao objetivo do produto.
 
 ---
 
-## ✦ Tecnologias que fazem parte da minha jornada
+## ✦ Tecnologias que uso
 
 <div align="center">
 
-### Interfaces e experiência
-
 <img
-  src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma&theme=dark"
-  alt="Tecnologias de interface"
-/>
-
-<br><br>
-
-### Aplicações e dados
-
-<img
-  src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgres&theme=dark"
-  alt="Tecnologias de aplicações e dados"
-/>
-
-<br><br>
-
-### Ferramentas e ambiente
-
-<img
-  src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea&theme=dark"
-  alt="Ferramentas de desenvolvimento"
+  src="https://skillicons.dev/icons?i=html,css,js,java,spring,figma,git,docker,vscode&theme=dark"
+  alt="Tecnologias usadas"
 />
 
 </div>
 
 ---
 
-## ✦ Atualmente no meu radar
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🌱 Aprendendo
-
-- Java e ecossistema Spring
-- Desenvolvimento Full Stack
-- Docker e ambientes conteinerizados
-- Arquitetura e boas práticas
-- Experiência do usuário
-
-</td>
-    <td width="50%" valign="top">
-
-### 🛠️ Construindo
-
-- Projetos para meu portfólio
-- Aplicações com front-end e back-end
-- Interfaces com identidade visual
-- Experimentos e pequenos desafios
-- Uma versão melhor de mim a cada commit
-
-</td>
-  </tr>
-</table>
-
----
-
-## ✦ Projetos que contam minha história
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
+## ✦ Projetos em destaque
 
 ### 🌐 Projeto IV — Integrador
+Sistema acadêmico com front-end e back-end integrados.
 
-Projeto acadêmico desenvolvido para integrar conhecimentos de programação, interface e organização de dados.
-
-**Destaques**
-
-`Desenvolvimento` `Integração` `Trabalho em equipe`
-
-<br>
+- Tecnologias: Java, Spring, HTML, CSS, JavaScript
+- Foco: arquitetura, integração e experiência de uso
+- Resultado: protótipo funcional com fluxo completo de dados
 
 <a href="https://github.com/Giovananevess/Projeto-IV-Integrador">
-  <strong>Explorar projeto ↗</strong>
+  <strong>Ver no GitHub ↗</strong>
 </a>
 
-</td>
-    <td width="50%" valign="top">
-
-### ✨ Próximo projeto
-
-Um espaço reservado para a próxima ideia que sairá do papel e ganhará vida através do código.
-
-**Em planejamento**
-
-`Design` `Código` `Criatividade`
-
 <br>
+
+### ✨ Projeto atual
+Desenvolvendo um projeto que une design, usabilidade e código confiável.
+
+- Objetivo: criar uma interface envolvente e fácil de usar.
+- Em andamento: componentes reutilizáveis e navegação responsiva.
+- Resultado esperado: produto visual e funcional.
 
 <a href="https://github.com/Giovananevess?tab=repositories">
   <strong>Acompanhar evolução ↗</strong>
 </a>
 
-</td>
-  </tr>
-</table>
+---
 
-> Cada projeto representa uma etapa da minha evolução: o que aprendi, o que construí e o que quero melhorar no próximo.
+## ✦ Em foco
+
+### 🌱 Aprendendo
+- Java e Spring Boot
+- Arquitetura de aplicações
+- Docker e ambientes conteinerizados
+- Boas práticas de código
+- Experiência do usuário
+
+### 🛠️ Construindo
+- portfólio com presença visual
+- aplicações web completas
+- interfaces acessíveis e elegantes
+- pequenos desafios de front-end e back-end
 
 ---
 
-## ✦ Um pouco da minha atividade
+## ✦ Meu GitHub
 
 <div align="center">
 
@@ -253,22 +152,12 @@ Um espaço reservado para a próxima ideia que sairá do papel e ganhará vida a
 
 ---
 
-## ✦ Minha forma de criar
+## ✦ Meu processo
 
 <div align="center">
 
 ```text
-uma ideia
-   ↓
-curiosidade
-   ↓
-pesquisa e planejamento
-   ↓
-código + design
-   ↓
-testes, erros e aprendizados
-   ↓
-uma nova experiência ganha vida ✨
+ideia → pesquisa → arquitetura → código → teste → refinamento → lançamento
 ```
 
 </div>
@@ -279,10 +168,10 @@ uma nova experiência ganha vida ✨
 
 ```java
 while (giovana.isCurious()) {
-    giovana.learn();
-    giovana.create();
-    giovana.test();
-    giovana.improve();
+  giovana.learn();
+  giovana.create();
+  giovana.test();
+  giovana.improve();
 }
 ```
 
@@ -299,7 +188,7 @@ Café                  ██████████  essencial
 <div align="center">
 
 ### “Não quero apenas fazer funcionar.  
-### Quero criar algo que as pessoas gostem de usar.”
+### Quero criar algo que as pessoas realmente gostem de usar.”
 
 <br>
 
