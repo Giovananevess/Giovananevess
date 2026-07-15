@@ -12,13 +12,13 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/giovana-neves-martinez">
+<a href="https://www.linkedin.com/in/giovana-neves-martinez](https://www.linkedin.com/in/giovana-neves-martinez/">
   <img src="https://img.shields.io/badge/LinkedIn-15151C?style=for-the-badge&logo=linkedin&logoColor=FF67B3" alt="LinkedIn">
 </a>
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:giovana_neves2001@outlook.com">
   <img src="https://img.shields.io/badge/E--mail-15151C?style=for-the-badge&logo=gmail&logoColor=FF67B3" alt="E-mail">
 </a>
-<a href="https://www.instagram.com/SEU_INSTAGRAM">
+<a href="https://www.instagram.com/giovananevess">
   <img src="https://img.shields.io/badge/Instagram-15151C?style=for-the-badge&logo=instagram&logoColor=FF67B3" alt="Instagram">
 </a>
 
