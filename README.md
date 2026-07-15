@@ -62,61 +62,140 @@ Sou **Giovana Neves**, desenvolvedora Full Stack que transforma ideias em produt
 
 ---
 
-## ✦ Tecnologias que uso
+## ☁️ Data Engineering Stack
+
+### ☁️ Cloud
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=html,css,js,java,spring,figma,git,docker,vscode&theme=dark"
-  alt="Tecnologias usadas"
-/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" alt="Cloud stack"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+<img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Glue"/>
+<img src="https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Athena"/>
+<img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Redshift"/>
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
+<img src="https://img.shields.io/badge/Amazon%20QuickSight-4B8BBE?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon QuickSight"/>
+<img src="https://img.shields.io/badge/AWS%20Step%20Functions-FF9900?style=for-the-badge" alt="AWS Step Functions"/>
+<img src="https://img.shields.io/badge/Amazon%20SES-232F3E?style=for-the-badge" alt="Amazon SES"/>
+<img src="https://img.shields.io/badge/EventBridge-FF9900?style=for-the-badge" alt="EventBridge"/>
 
 </div>
 
 ---
 
-## ✦ Projetos em destaque
+### 🐍 Data Engineering
 
-### 🌐 Projeto IV — Integrador
-Sistema acadêmico com front-end e back-end integrados.
+<div align="center">
 
-- Tecnologias: Java, Spring, HTML, CSS, JavaScript
-- Foco: arquitetura, integração e experiência de uso
-- Resultado: protótipo funcional com fluxo completo de dados
+<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres&theme=dark" alt="Data engineering stack"/>
 
-<a href="https://github.com/Giovananevess/Projeto-IV-Integrador">
-  <strong>Ver no GitHub ↗</strong>
-</a>
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/ETL-15151C?style=for-the-badge" alt="ETL"/>
+<img src="https://img.shields.io/badge/Data%20Lake-15151C?style=for-the-badge" alt="Data Lake"/>
+<img src="https://img.shields.io/badge/Data%20Warehouse-15151C?style=for-the-badge" alt="Data Warehouse"/>
+<img src="https://img.shields.io/badge/Apache%20Parquet-15151C?style=for-the-badge" alt="Apache Parquet"/>
+<img src="https://img.shields.io/badge/SQL-15151C?style=for-the-badge" alt="SQL"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge" alt="Boto3"/>
 
-### ✨ Projeto atual
-Desenvolvendo um projeto que une design, usabilidade e código confiável.
-
-- Objetivo: criar uma interface envolvente e fácil de usar.
-- Em andamento: componentes reutilizáveis e navegação responsiva.
-- Resultado esperado: produto visual e funcional.
-
-<a href="https://github.com/Giovananevess?tab=repositories">
-  <strong>Acompanhar evolução ↗</strong>
-</a>
+</div>
 
 ---
 
-## ✦ Em foco
+### 📊 Analytics & BI
 
-### 🌱 Aprendendo
-- Java e Spring Boot
-- Arquitetura de aplicações
-- Docker e ambientes conteinerizados
-- Boas práticas de código
-- Experiência do usuário
+<div align="center">
 
-### 🛠️ Construindo
-- portfólio com presença visual
-- aplicações web completas
-- interfaces acessíveis e elegantes
-- pequenos desafios de front-end e back-end
+<img src="https://img.shields.io/badge/Amazon%20QuickSight-4B8BBE?style=for-the-badge" alt="Amazon QuickSight"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira" alt="Jira"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence" alt="Confluence"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions" alt="GitHub Actions"/>
+
+</div>
+
+---
+
+## 🚀 O que estou construindo atualmente
+
+```text
+current_focus:
+
+  ☁️ AWS Data Engineering
+
+      ✓ Glue
+      ✓ Lambda
+      ✓ S3
+      ✓ Athena
+      ✓ Redshift
+
+  📊 Business Intelligence
+
+      ✓ Amazon QuickSight
+      ✓ Dashboards
+      ✓ KPIs
+
+  🐍 Python
+
+      ✓ ETL
+      ✓ APIs
+      ✓ Automações
+
+  🏗 Arquitetura
+
+      ✓ Data Lake
+      ✓ Data Warehouse
+      ✓ Event Driven
+```
+
+---
+
+## 💼 Experiência
+
+```text
+☁️ AWS
+
+████████████████████ 90%
+
+🐍 Python
+
+██████████████████ 85%
+
+SQL
+
+███████████████████ 90%
+
+QuickSight
+
+██████████████████ 90%
+
+ETL
+
+███████████████████ 90%
+
+Docker
+
+█████████████ 70%
+
+Java
+
+████████████ 65%
+```
+
+---
+
+## ✨ Currently building
+
+- ☁️ Data Pipelines
+- 📊 Business Intelligence
+- ⚡ AWS Automations
+- 🐍 ETL with Python
+- 📈 Analytics
+- 🤖 AI Solutions
 
 ---
 
@@ -124,11 +203,7 @@ Desenvolvendo um projeto que une design, usabilidade e código confiável.
 
 <div align="center">
 
-<img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=Giovananevess&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF67B3&icon_color=C084FC&text_color=C9D1D9&ring_color=FF67B3&include_all_commits=true&locale=pt-br"
-  alt="Estatísticas do GitHub"
-/>
+
 
 <img
   width="48%"
